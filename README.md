@@ -11,3 +11,5 @@ Jetpack : https://developer.nvidia.com/embedded/jetpack
 # Customizing pipeline and Contorlling feed through multiple branches in pipleine
   * https://github.com/NVIDIA-AI-IOT/deepstream_python_apps/tree/master/apps/runtime_source_add_delete
   * Blog : https://developer.nvidia.com/blog/managing-video-streams-in-runtime-with-the-deepstream-sdk/
+  
+Detail doc : **https://docs.nvidia.com/metropolis/deepstream/dev-guide/text/DS_Overview.html**
